@@ -1,0 +1,11 @@
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\bin\Debug\Proyecto TCU.exe
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\bin\Debug\Proyecto TCU.pdb
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\bin\Debug\Proyecto TCU.xml
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto_TCU.Form1.resources
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto_TCU.Resources.resources
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto TCU.vbproj.GenerateResource.Cache
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto TCU.exe
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto TCU.xml
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto TCU.pdb
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto_TCU.Form2.resources
+C:\Users\FABIOLA ENRIQUEZ\Documents\TCU\Proyecto TCU\Proyecto TCU\obj\x86\Debug\Proyecto_TCU.Form3.resources
